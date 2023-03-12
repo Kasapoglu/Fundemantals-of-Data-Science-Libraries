@@ -20,11 +20,7 @@ It is recommended that you have a basic understanding of the Python programming 
 
 ## How to Use
 
-This repository is intended for students who want to understand the basic concepts of data science. You can use this repository to learn the fundamental concepts of data science and to create applications in Python.
-
-## Contributing
-
-This repository is open source and contributions are welcome. If you would like to contribute, please submit a pull request.
+This repository is intended for students who want to understand the basic concepts of data science libraries. You can use this repository to learn the fundamental concepts of data science and to create applications in Python.
 
 
 ## Contact
